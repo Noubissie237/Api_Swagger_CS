@@ -1,0 +1,6 @@
+@FirstApiWithCSharp_HostAddress = http://localhost:5246
+
+GET {{FirstApiWithCSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
